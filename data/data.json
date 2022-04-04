@@ -10,6 +10,11 @@
    {  
       "text":"I failed my way to success.",
       "from":"Thomas Edison"
+      
+   },
+   {  
+      "text":"Failure is just another way to learn how to do something right.",
+      "from":"Marian Wright Edelman"
    },
    {  
       "text":"Every failure brings with it the seed of an equivalent success.",
@@ -26,6 +31,7 @@
    {  
       "text":"It is hard to fail, but it is worse never to have tried to succeed.",
       "from":"Theodore Roosevelt"
+    
    },
    {  
       "text":"Imagination is more important than knowledge.",
